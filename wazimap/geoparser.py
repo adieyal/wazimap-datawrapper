@@ -1,5 +1,5 @@
 import copy 
-from theme import Theme
+from .theme import Theme
 
 class GeoParser:
     def __init__(self, geo):

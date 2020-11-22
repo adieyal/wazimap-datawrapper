@@ -1,4 +1,4 @@
-from pointmarker import PointMarker
+from .pointmarker import PointMarker
 
 class PointBuilder:
     def __init__(self, dw):
